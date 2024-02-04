@@ -1,0 +1,15 @@
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\bin\Debug\net6.0\MGibbonsBattleship.exe
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\bin\Debug\net6.0\MGibbonsBattleship.deps.json
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\bin\Debug\net6.0\MGibbonsBattleship.runtimeconfig.json
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\bin\Debug\net6.0\MGibbonsBattleship.dll
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\bin\Debug\net6.0\MGibbonsBattleship.pdb
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\MGibbonsBattleship.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\MGibbonsBattleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\MGibbonsBattleship.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\MGibbonsBattleship.AssemblyInfo.cs
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\MGibbonsBattleship.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\MGibbonsBattleship.dll
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\refint\MGibbonsBattleship.dll
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\MGibbonsBattleship.pdb
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\MGibbonsBattleship.genruntimeconfig.cache
+C:\Users\Matt\source\repos\MGibbonsBattleship\MGibbonsBattleship\obj\Debug\net6.0\ref\MGibbonsBattleship.dll

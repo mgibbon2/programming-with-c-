@@ -1,0 +1,17 @@
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\bin\Debug\net6.0-windows\LegallyNotWordle.exe
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\bin\Debug\net6.0-windows\LegallyNotWordle.deps.json
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\bin\Debug\net6.0-windows\LegallyNotWordle.runtimeconfig.json
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\bin\Debug\net6.0-windows\LegallyNotWordle.dll
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\bin\Debug\net6.0-windows\LegallyNotWordle.pdb
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.WordleWindow.resources
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.csproj.GenerateResource.cache
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.AssemblyInfo.cs
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.dll
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\refint\LegallyNotWordle.dll
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.pdb
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\LegallyNotWordle.genruntimeconfig.cache
+C:\Users\Matt\source\repos\LegallyNotWordle\LegallyNotWordle\obj\Debug\net6.0-windows\ref\LegallyNotWordle.dll
